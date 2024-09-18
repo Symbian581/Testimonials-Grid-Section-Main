@@ -149,6 +149,7 @@ img {
   }
   .container-main {
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    max-width: 1110px;
   }
   
   .container-1 {
